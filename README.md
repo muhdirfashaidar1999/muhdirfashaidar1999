@@ -68,7 +68,7 @@ Laravel
 ├── Query & Database
 └── Authentication & Authorization
         ↓
-JavaScript Fundamental
+JavaScript Fundamental(Sedang di tahap ini)
         ↓
 React.js
         ↓
