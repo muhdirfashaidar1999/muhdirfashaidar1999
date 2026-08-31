@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there i'm Muhammad Dirfas Haidar👋
 
 <!--
 **muhdirfashaidar1999/muhdirfashaidar1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
